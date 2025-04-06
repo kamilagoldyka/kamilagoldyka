@@ -6,7 +6,7 @@ I'm a **_Sociologist turned Data Analyst_**. My background includes experience i
 Working with **_Python, SQL, R, and Power BI_** to analyze, visualize, and explain data.  
 
 ## 🚀 Learning by doing
-I believe the best way to grow is through hands-on experience — exploring, experimenting, and continuously improving. My repositories showcase projects where I apply and expand my skills. Please note that I am currently in the process of uploading projects to GitHub.
+I believe the best way to grow is through hands-on experience — exploring, experimenting, and continuously improving. My repositories showcase projects where I apply and expand my skills.
 
 ## 👀 Open to...  
 📊 **_Entry-level roles in Data Analysis_** — ready to apply my skills in a professional setting.  
