@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **_Sociologist turned Data Analyst_**. My background includes experience in political campaigning and working as a Junior Strategy Planner at the European Parliament in Brussels. Recognized by Forbes with 25 under 25 for social change, I am passionate about impact assessment and statistical analysis.
+I'm a **_Data Analyst with a background in digital marketing_**. My background includes experience in political campaigning and working as a Junior Strategy Planner at the European Parliament in Brussels. Recognized by Forbes with 25 under 25 for social change, I am passionate about impact assessment and statistical analysis.
 
 ## 🛠️ Tools  
 Working with **_Python, SQL, R, and Power BI_** to analyze, visualize, and explain data.  
