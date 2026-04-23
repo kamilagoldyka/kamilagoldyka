@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a **_Data Analyst with a background in digital marketing_**, recognized by Forbes 25 Under 25 for social change. Passionate about using
+I'm a **_Data Analyst_**, recognized by Forbes 25 Under 25 for social change. Passionate about using
 statistical methods and analytical tools to drive strategic decision-making and deliver measurable impact.
 
 ## Tools  
-Working with **_Python, SQL, R, and Power BI_** to analyze, visualize, and explain data.  
+Working with **_Python, SQL, R, and Power BI_** to analyze, visualize, and explain data. 
 
 ## Learning by doing
 I believe the best way to grow is through hands-on experience — exploring, experimenting, and continuously improving. My repositories showcase projects where I apply and expand my skills.
